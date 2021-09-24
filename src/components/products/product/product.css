@@ -1,0 +1,12 @@
+.pro-card img{
+    width: 90%;
+    height:  18rem;
+    margin: 1rem;
+
+}
+.pro-card{
+    text-align: right;
+    -webkit-box-shadow: 6px 7px 4px -1px rgba(0,0,0,0.21); 
+box-shadow: 6px 7px 4px -1px rgba(0,0,0,0.21);
+margin: 1rem;
+}

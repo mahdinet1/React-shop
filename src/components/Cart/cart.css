@@ -1,0 +1,16 @@
+.cart-shop-item {
+    width:75% !important;
+    height:14vh;
+    background-color:rgb(255, 255, 255);
+    margin:1rem;
+    box-shadow: 1px 1px 1px 1px rgba(177, 176, 176, 0.9);
+    
+}
+.cart-shop-item div{
+    width: 30%;
+    height: auto;
+}
+.cart-shop-item div img{
+    width: 20%;
+    height: inherit;
+}
